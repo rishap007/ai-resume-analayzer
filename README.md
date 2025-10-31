@@ -1,7 +1,9 @@
 
 <img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/245ce2c4-62a4-476e-9ad6-d0396bcdf9a4" />
-<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/1045c451-8a24-471a-8de7-8357b157f815" />
+<!-- <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/1045c451-8a24-471a-8de7-8357b157f815" /> -->
 <img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/d76dccb9-3dcd-43cd-b668-6d9654676b6c" />
+
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/3a2b96b5-3863-4056-8cba-7400659aadfe" />
 
 ## 📋 <a name="table">Table of Contents</a>
 
